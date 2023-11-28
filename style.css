@@ -1,0 +1,38 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+    padding: 200px;
+}
+
+.button{
+    height: 50px;
+    width: 125px;
+}
+
+#box{
+    padding: 25px;
+    height: 300px;
+    width: 750px;
+    justify-content:space-around;
+    display: flex;
+    align-items: center;
+}
+
+.box-green{
+    background-color: rgb(127, 255, 187);
+}
+
+.box-blue{
+    background-color:rgb(92, 92, 180)
+}
+
+
+
+
+p {
+    font-size: 32px;
+    padding:20px;
+}
